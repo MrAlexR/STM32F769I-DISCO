@@ -11,3 +11,9 @@ Performance testing can be done using the GPIO pins designated with the followin
 - RENDER_TIME - Pin PC7(D0)
 - FRAME_RATE  - Pin PJ1(D2)
 - MCU_ACTIVE  - Pin PF6(D3)
+
+This is a Graphical real-time audio equalizer using the STM32F769I_DISCO board.
+The codec for the audio codec is custom made. Inspired from the provided one in the BSP board package.
+Further implementations are do be done.
+
+RO: Egalizator audi in timp real. Ne folosim de display-ul cu care vine placa pentru a modifica parametrii DSP-ului responsabil de egalizare.
