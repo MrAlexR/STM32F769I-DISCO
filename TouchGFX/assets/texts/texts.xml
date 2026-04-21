@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.26.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="ResourceId1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="TXT_VOLUME" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_P8XV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_1DUE" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Aplicare</Translation>
+      </Text>
+      <Text Id="__SingleUse_PVEG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_TZO8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A9NB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_P36H" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VD94" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00000</Translation>
+      </Text>
+      <Text Id="__SingleUse_47QK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BQFM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_8L3F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_DDSO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_TMNM" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_JDO5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0000</Translation>
+      </Text>
+      <Text Id="__SingleUse_I4ZE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_GT2B" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_TVT5" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_S4JV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_JTPZ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8OK3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">00</Translation>
+      </Text>
+      <Text Id="__SingleUse_6A0Z" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KOO3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">High Shelf</Translation>
+      </Text>
+      <Text Id="__SingleUse_T664" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Peaking EQ</Translation>
+      </Text>
+      <Text Id="__SingleUse_JY9E" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Low Shelf</Translation>
+      </Text>
+      <Text Id="__SingleUse_OEGT" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Resetare</Translation>
+      </Text>
+      <Text Id="id_b_aplicare" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Aplicare</Translation>
+      </Text>
+      <Text Id="__SingleUse_6RT6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Egalizator Audio</Translation>
+      </Text>
+      <Text Id="__SingleUse_8JXN" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">G</Translation>
+      </Text>
+      <Text Id="__SingleUse_SGGK" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">S</Translation>
+      </Text>
+      <Text Id="__SingleUse_TM2X" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">S</Translation>
+      </Text>
+      <Text Id="__SingleUse_3NQP" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">S</Translation>
+      </Text>
+      <Text Id="__SingleUse_FYVF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Q</Translation>
+      </Text>
+      <Text Id="__SingleUse_OOD2" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Fc</Translation>
+      </Text>
+      <Text Id="__SingleUse_2COS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Fc</Translation>
+      </Text>
+      <Text Id="__SingleUse_YLCG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">G</Translation>
+      </Text>
+      <Text Id="__SingleUse_YWFX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Fc</Translation>
+      </Text>
+      <Text Id="__SingleUse_EXG8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">G</Translation>
+      </Text>
+      <Text Id="__SingleUse_G3KA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Vol</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="0123456789-" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

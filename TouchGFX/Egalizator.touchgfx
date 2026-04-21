@@ -1,0 +1,1054 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "MainEQ",
+        "CanvasBufferSize": 12000,
+        "Components": [
+          {
+            "Type": "Image",
+            "Name": "image1",
+            "Width": 800,
+            "Height": 480,
+            "RelativeFilename": "__generated\\dark_theme_images_backgrounds_800x480_poly.png"
+          },
+          {
+            "Type": "Circle",
+            "Name": "Avol",
+            "X": 627,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AhighS",
+            "X": 559,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AhighFC",
+            "X": 499,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AhighG",
+            "X": 443,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AmidQ",
+            "X": 361,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AmidFC",
+            "X": 302,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AmidG",
+            "X": 238,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AlowS",
+            "X": 155,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "highSval",
+            "X": 626,
+            "Y": 435,
+            "Width": 26,
+            "Height": 24,
+            "TextId": "__SingleUse_TZO8",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 208
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_PVEG",
+              "UseBuffer": true,
+              "BufferSize": 4
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "lowGval",
+            "X": 79,
+            "Y": 435,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_TVT5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 174
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_GT2B",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3_1",
+            "X": 254,
+            "Y": 216,
+            "Width": 24,
+            "Height": 114,
+            "TextId": "__SingleUse_T664",
+            "TextRotation": "270",
+            "Color": {
+              "Red": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3_1_1",
+            "X": 459,
+            "Y": 222,
+            "Width": 24,
+            "Height": 103,
+            "TextId": "__SingleUse_KOO3",
+            "TextRotation": "270",
+            "Color": {
+              "Green": 255,
+              "Blue": 247
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_4",
+            "X": 501,
+            "Y": 67,
+            "Width": 16,
+            "Height": 24,
+            "TextId": "__SingleUse_8JXN",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 247
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_3_2",
+            "X": 216,
+            "Y": 67,
+            "Width": 14,
+            "Height": 24,
+            "TextId": "__SingleUse_TM2X",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 204
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_2",
+            "X": 150,
+            "Y": 67,
+            "Width": 22,
+            "Height": 24,
+            "TextId": "__SingleUse_OOD2",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 204
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_3",
+            "X": 298,
+            "Y": 67,
+            "Width": 16,
+            "Height": 24,
+            "TextId": "__SingleUse_YLCG",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2",
+            "X": 557,
+            "Y": 67,
+            "Width": 22,
+            "Height": 24,
+            "TextId": "__SingleUse_YWFX",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 247
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_1",
+            "X": 357,
+            "Y": 67,
+            "Width": 22,
+            "Height": 24,
+            "TextId": "__SingleUse_2COS",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_1",
+            "X": 90,
+            "Y": 67,
+            "Width": 16,
+            "Height": 24,
+            "TextId": "__SingleUse_EXG8",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 204
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "vol",
+            "X": 690,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_rounded_active.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 200,
+            "InitValue": 100
+          },
+          {
+            "Type": "Slider",
+            "Name": "highS",
+            "X": 615,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_rounded_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 14,
+            "ValueMin": 4,
+            "InitValue": 10,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "highFC",
+            "X": 555,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_rounded_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 10000,
+            "ValueMin": 4000,
+            "InitValue": 7000,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "highG",
+            "X": 497,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_rounded_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 10,
+            "ValueMin": -10,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "midQ",
+            "X": 416,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_active.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 20,
+            "ValueMin": 5,
+            "InitValue": 7,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "midFC",
+            "X": 357,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_active.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 4000,
+            "ValueMin": 400,
+            "InitValue": 2200,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "midG",
+            "X": 294,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_active.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 10,
+            "ValueMin": -10,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "lowS",
+            "X": 211,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 14,
+            "ValueMin": 4,
+            "InitValue": 10,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "lowFC",
+            "X": 149,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 230,
+            "ValueMin": 30,
+            "InitValue": 130,
+            "Clickable": true
+          },
+          {
+            "Type": "Slider",
+            "Name": "lowG",
+            "X": 86,
+            "Y": 102,
+            "Width": 24,
+            "Height": 324,
+            "BackgroundUnselected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_track_medium.png",
+            "BackgroundSelected": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_filler_medium.png",
+            "Indicator": "__generated\\alternate_theme_images_widgets_slider_vertical_thin_round_light.png",
+            "BackgroundX": 9,
+            "BackgroundY": 12,
+            "IndicatorMax": 300,
+            "ValueMax": 10,
+            "ValueMin": -10,
+            "Clickable": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1",
+            "X": 687,
+            "Y": 67,
+            "Width": 30,
+            "Height": 24,
+            "TextId": "__SingleUse_G3KA",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 30,
+              "Green": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_3",
+            "X": 421,
+            "Y": 67,
+            "Width": 16,
+            "Height": 24,
+            "TextId": "__SingleUse_FYVF",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_3_1",
+            "X": 620,
+            "Y": 67,
+            "Width": 14,
+            "Height": 24,
+            "TextId": "__SingleUse_3NQP",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea1_2_3_1_1",
+            "X": 620,
+            "Y": 67,
+            "Width": 14,
+            "Height": 24,
+            "TextId": "__SingleUse_SGGK",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 247
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea2",
+            "X": 86,
+            "Y": 21,
+            "Width": 162,
+            "Height": 24,
+            "TextId": "__SingleUse_6RT6",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 234
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "ToggleButton",
+            "Name": "toggleButton1",
+            "X": 302,
+            "Y": 8,
+            "Width": 138,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_togglebutton_medium_round_text_on_active.png",
+            "Released": "__generated\\alternate_theme_images_widgets_togglebutton_medium_round_text_off_normal.png",
+            "Preset": "alternate_theme\\presets\\togglebutton\\medium\\round_active_text.json",
+            "Clickable": true
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabel1",
+            "X": 490,
+            "Y": 8,
+            "Width": 110,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_round_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_round_inactive.png",
+            "TextId": "__SingleUse_1DUE",
+            "ReleasedColor": {
+              "Red": 15,
+              "Green": 235,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 5,
+              "Green": 38,
+              "Blue": 230
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_50\\tiny_round_inactive.json",
+            "Clickable": true
+          },
+          {
+            "Type": "ButtonWithLabel",
+            "Name": "buttonWithLabel2",
+            "X": 647,
+            "Y": 8,
+            "Width": 110,
+            "Height": 50,
+            "Pressed": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_round_inactive.png",
+            "Released": "__generated\\alternate_theme_images_widgets_button_regular_height_50_tiny_round_inactive.png",
+            "TextId": "__SingleUse_OEGT",
+            "ReleasedColor": {
+              "Green": 204,
+              "Blue": 255
+            },
+            "PressedColor": {
+              "Red": 5,
+              "Green": 40,
+              "Blue": 240
+            },
+            "TextRotation": "0",
+            "Preset": "alternate_theme\\presets\\button\\regular\\height_50\\tiny_round_inactive.json"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "textArea3",
+            "X": 46,
+            "Y": 216,
+            "Width": 24,
+            "Height": 97,
+            "TextId": "__SingleUse_JY9E",
+            "TextRotation": "270",
+            "Color": {
+              "Red": 255,
+              "Green": 178
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "lowSval",
+            "X": 217,
+            "Y": 435,
+            "Width": 26,
+            "Height": 24,
+            "TextId": "__SingleUse_6A0Z",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 174
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_8OK3",
+              "UseBuffer": true,
+              "BufferSize": 4
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "lowFCval",
+            "X": 142,
+            "Y": 435,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_JTPZ",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 174
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_S4JV",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "midGval",
+            "X": 287,
+            "Y": 435,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_8L3F",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 227,
+              "Green": 50,
+              "Blue": 65
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_BQFM",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "midQval",
+            "X": 422,
+            "Y": 435,
+            "Width": 26,
+            "Height": 24,
+            "TextId": "__SingleUse_TMNM",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 227,
+              "Green": 50,
+              "Blue": 65
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_DDSO",
+              "UseBuffer": true,
+              "BufferSize": 4
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "midFCval",
+            "X": 349,
+            "Y": 435,
+            "Width": 52,
+            "Height": 24,
+            "TextId": "__SingleUse_I4ZE",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 227,
+              "Green": 50,
+              "Blue": 65
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_JDO5",
+              "UseBuffer": true,
+              "BufferSize": 6
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "highGval",
+            "X": 490,
+            "Y": 435,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_P36H",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 208
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_A9NB",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "volVal",
+            "X": 683,
+            "Y": 435,
+            "Width": 39,
+            "Height": 24,
+            "TextId": "__SingleUse_P8XV",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 38,
+              "Green": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "TXT_VOLUME",
+              "UseBuffer": true,
+              "BufferSize": 5
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "highFCval",
+            "X": 551,
+            "Y": 435,
+            "Width": 65,
+            "Height": 24,
+            "TextId": "__SingleUse_47QK",
+            "TextRotation": "0",
+            "Color": {
+              "Green": 255,
+              "Blue": 208
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_VD94",
+              "UseBuffer": true,
+              "BufferSize": 6
+            }
+          },
+          {
+            "Type": "Circle",
+            "Name": "AlowG",
+            "X": 30,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          },
+          {
+            "Type": "Circle",
+            "Name": "AlowFC",
+            "X": 93,
+            "Y": 79,
+            "Width": 80,
+            "Height": 78,
+            "Visible": false,
+            "Color": {
+              "Red": 255
+            },
+            "CenterX": 40.0,
+            "CenterY": 40.0,
+            "Radius": 10.0,
+            "EndAngle": 360.0,
+            "CapPrecision": "Butt"
+          }
+        ],
+        "Interactions": [
+          {
+            "InteractionName": "Interaction1",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabel1"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "functionApply"
+            }
+          },
+          {
+            "InteractionName": "Interaction2",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "buttonWithLabel2"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "functionReset"
+            }
+          },
+          {
+            "InteractionName": "Interaction4",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "vol"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "functionVolUpdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction5",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "lowG"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "lowGupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction6",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "midG"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "midGupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction7",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "highG"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "highGupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction8",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "lowFC"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "lowFCupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction9",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "midFC"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "midFCupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction10",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "highFC"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "highFCupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction11",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "lowS"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "lowSupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction12",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "midQ"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "midQupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction13",
+            "Trigger": {
+              "Type": "TriggerSliderValueChanged",
+              "TriggerComponent": "highS"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "highSupdate"
+            }
+          },
+          {
+            "InteractionName": "Interaction14",
+            "Trigger": {
+              "Type": "TriggerClicked",
+              "TriggerComponent": "toggleButton1"
+            },
+            "Action": {
+              "Type": "ActionCustom",
+              "FunctionName": "activateDSP"
+            }
+          }
+        ]
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "Egalizator",
+    "Resolution": {
+      "Width": 480,
+      "Height": 800
+    },
+    "SelectedColorDepth": 16,
+    "StartupScreenName": "MainEQ",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      16
+    ],
+    "AvailableLCDs": {
+      "24": "LCD24bpp",
+      "16": "LCD16bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 480,
+        "Height": 800
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD16bpp": {
+        "Id": "LCD16bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../gcc/Makefile flash",
+    "FlashTargetIntCommandOverride": "make -f ../gcc/Makefile intflash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32F7",
+    "SubFamily": "STM32F7x9",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../STM32F769I_DISCO.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": [
+      "CWRVector",
+      "VectorFonts",
+      "Video"
+    ]
+  },
+  "Version": "4.26.0",
+  "CreatedBy": "4.26.0"
+}
