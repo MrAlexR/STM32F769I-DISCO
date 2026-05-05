@@ -19,3 +19,4 @@ Further implementations are due be done.
 The MCU gets data from the audio codec via I2S/SAI (done by DMA) and processes the samples using an RBJ argorithm. The it sends the data back to the code (also done via DMA).
 
 RO: Egalizator audio in timp real. Ne folosim de display-ul cu care vine placa pentru a modifica parametrii DSP-ului responsabil de egalizare.
+<img src="demo.jpeg" width="400">
